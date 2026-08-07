@@ -39,5 +39,3 @@ This project is built using MySQL and simulates a banking fraud detection system
 ## ER Diagram
 ![ER Diagram](ER%20Diagram.png)
 
-## Google Sheet Analysis
-[Download the Google Sheet Analysis File]([Google_Sheet/Financial_Transaction_Fraud_Analysis.xlsx](https://docs.google.com/spreadsheets/d/1lO1Dr5O6OUk4wMMQxRCpFe3Fbk1fzE8NCfeUC-91Ihk/edit?usp=sharing))
