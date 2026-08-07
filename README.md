@@ -37,3 +37,4 @@ This project is built using MySQL and simulates a banking fraud detection system
 - 14_business_case_queries.sql
 
 ## ER Diagram
+![ER Diagram](ER%20Diagram.png)
