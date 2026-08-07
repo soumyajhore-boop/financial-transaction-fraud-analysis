@@ -1,0 +1,2 @@
+CREATE DATABASE fraud_detection_db;
+USE fraud_detection_db;
